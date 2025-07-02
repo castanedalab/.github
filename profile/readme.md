@@ -42,7 +42,7 @@ These tools are applied to aid in diagnosing and managing chronic diseases such 
 
 ## 📂 Repositories
 
-You can explore our active research and development on our [GitHub repositories](https://github.com/castanedalab).
+You can explore our active research and development on our [GitHub repositories](https://github.com/orgs/castanedalab/repositories).
 
 ---
 
