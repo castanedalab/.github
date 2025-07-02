@@ -3,7 +3,7 @@
 **University of Rochester**  
 **Castaneda Lab**
 
-![University of Rochester Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rochester_Yellowjackets_logo.svg/1200px-Rochester_Yellowjackets_logo.svg.png) <!-- Replace with local image if needed -->
+![Lab Image](lab.jpg) <!-- Replace with local image if needed -->
 
 ---
 
